@@ -54,7 +54,7 @@ ROOT_URLCONF = 'tarantino_test.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['restaurants/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
