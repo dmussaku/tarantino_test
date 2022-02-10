@@ -1,2 +1,2 @@
-Django==2.2.24
+Django==2.2.27
 pytest-django==3.2.1
